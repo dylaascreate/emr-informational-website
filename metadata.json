@@ -1,0 +1,6 @@
+{
+  "name": "East Man Resource",
+  "description": "East Man Resource Sdn Bhd | Excellence at Sea",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
